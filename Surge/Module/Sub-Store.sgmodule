@@ -1,4 +1,5 @@
 #!name=Sub-Store
+#!desc=Sub-Store
 [MITM]
 hostname=%APPEND% sub.store
 
