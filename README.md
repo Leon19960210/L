@@ -1,1 +1,2 @@
-personal use only
+⛔️Star ⛔️Fork ⛔️Share
+  personal use only
