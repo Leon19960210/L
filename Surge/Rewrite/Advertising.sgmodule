@@ -1,5 +1,5 @@
-#!name= Advertising
-#!desc= 2023-02
+#!name=Advertising
+#!desc=2023-02
 
 [General]
 force-http-engine-hosts = %APPEND% intl.iqiyi.com, maicai.api.ddxq.mobi, mobileapi-v6.elong.com, wmapi.meituan.com, weibointl.api.weibo.cn, *.ott.cibntv.net
