@@ -5,10 +5,8 @@
 always-real-ip = %APPEND% *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com
 
 [URL Rewrite]
-"(^https?:\/\/app\.biliintl\.com\/(x\/)?(intl|dm|reply|history|v\d\/(fav|msgfeed)).+?)(&s_locale=zh-Hans_[A-Z]{2})(.+?)(&sim_code=\d+)(.+)" $1&s_locale=zh-Hans_PH$6&sim_code=51503$8 302
-"(^https?:\/\/passport\.biliintl\.com\/x\/intl\/passport-login\/.+)(&s_locale=zh-Hans_[A-Z]{2})(.+)(&sim_code=\d+)(.+)" $1&s_locale=zh-Hans_PH$35&sim_code=51503$5 302
 "^https?:\/\/(ditu|maps).google\.cn" https://maps.google.com 302
 "^https?:\/\/(www.)?(g|google)\.cn" https://www.google.com 302
 
 [MITM]
-hostname = %APPEND% www.amazon.com,app.biliintl.com,ditu.google.cn,g.cn,google.cn,map.google.cn,passport.biliintl.com,www.g.cn,www.google.cn
+hostname = %APPEND% www.amazon.com,ditu.google.cn,g.cn,google.cn,map.google.cn,www.g.cn,www.google.cn
