@@ -2,7 +2,6 @@
 #!desc=2023-02
 
 [General]
-
 always-real-ip = %APPEND% *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.logon.battlenet.com.cn, *.logon.battle.net, stun.l.google.com
 
 [URL Rewrite]
