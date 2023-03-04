@@ -1,8 +1,9 @@
 # NAME: Telegram
-# UPDATED: 2023-02
+# UPDATED: 2023-03
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,mbrx.app
 DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,t.me
