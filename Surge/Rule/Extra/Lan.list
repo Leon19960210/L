@@ -1,8 +1,11 @@
 # NAME: Lan
-# UPDATED: 2023-03
+# UPDATED: 2023-05
+DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,www.asusrouter.com
+DOMAIN,www.mifiwi.com
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -100,6 +103,8 @@ DOMAIN-SUFFIX,99.100.in-addr.arpa
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
@@ -114,11 +119,13 @@ DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
