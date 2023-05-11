@@ -1,6 +1,6 @@
 # NAME: GlobalMedia
-# UPDATED: 2023-03
-DOMAIN-KEYWORD,-spotify-com
+# UPDATED: 2023-05
+DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,avoddashs
@@ -14,10 +14,13 @@ DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,olevod
+DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,tiktokcdn-
+DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
