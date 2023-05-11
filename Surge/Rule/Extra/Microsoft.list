@@ -1,5 +1,5 @@
 # NAME: Microsoft
-# UPDATED: 2023-03
+# UPDATED: 2023-05
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,21vbc.com
@@ -266,6 +266,7 @@ DOMAIN-SUFFIX,mesh.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,microbit.org
 DOMAIN-SUFFIX,microsoft
+DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoft-int.com
 DOMAIN-SUFFIX,microsoft-online.cn
@@ -323,6 +324,7 @@ DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,microsoftazurestatus.cn
 DOMAIN-SUFFIX,microsoftcloud.com
 DOMAIN-SUFFIX,microsoftcloudsummit.com
@@ -667,5 +669,5 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,onedrive
-PROCESS-NAME,onedriveupdater
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
