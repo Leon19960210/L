@@ -1,5 +1,5 @@
 # NAME: Telegram
-# UPDATED: 2023-03
+# UPDATED: 2023-05
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,graph.org
@@ -37,4 +37,5 @@ IP-ASN,62014,no-resolve
 IP-ASN,62041,no-resolve
 PROCESS-NAME,nekox.messenger
 PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
 OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
