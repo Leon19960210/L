@@ -1,5 +1,5 @@
 # NAME: Google
-# UPDATED: 2023-03
+# UPDATED: 2023-05
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -544,6 +544,7 @@ DOMAIN-SUFFIX,j2objc.org
 DOMAIN-SUFFIX,jibemobile.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
@@ -721,7 +722,6 @@ DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,recaptcha
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -735,4 +735,4 @@ PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.gms
 PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.play.games
-PROCESS-NAME,backupandsync
+PROCESS-NAME,BackupandSync
