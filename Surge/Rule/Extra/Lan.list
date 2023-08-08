@@ -1,5 +1,5 @@
 # NAME: Lan
-# UPDATED: 2023-05
+# UPDATED: 2023-08
 DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
@@ -144,3 +144,4 @@ IP-CIDR,224.0.0.0/3,no-resolve
 IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,ff00::/8,no-resolve
