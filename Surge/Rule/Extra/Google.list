@@ -1,5 +1,5 @@
 # NAME: Google
-# UPDATED: 2023-05
+# UPDATED: 2023-08
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,beacons2.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,blink.org
+DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogspot.ae
@@ -208,6 +209,8 @@ DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flutter.dev
@@ -507,6 +510,7 @@ DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,googleventures.com
+DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
@@ -544,6 +548,7 @@ DOMAIN-SUFFIX,j2objc.org
 DOMAIN-SUFFIX,jibemobile.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggle.net
 DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keytransparency.com
