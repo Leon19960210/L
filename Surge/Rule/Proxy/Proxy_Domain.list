@@ -1,11 +1,14 @@
 # NAME: Proxy
-# UPDATED: 2023-05
+# UPDATED: 2023-08
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
+chat.openai.com.cdn.cloudflare.net
 cloud.oracle.com
 cvws.icloud-content.com
 developer.apple.com
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicomproductionae4b.blob.core.windows.net
 testflight.apple.com
 voice.telephony.goog
 .000webhost.com
@@ -208,7 +211,6 @@ voice.telephony.goog
 .ahcdn.com
 .ai-kan.net
 .ai-wen.net
-.ai.com
 .aiph.net
 .airasia.com
 .airconsole.com
@@ -530,6 +532,7 @@ voice.telephony.goog
 .berlinerbericht.de
 .berm.co.nz
 .bestforchina.org
+.bestgore.com
 .bestvpn.com
 .bestvpnanalysis.com
 .bestvpnserver.com
@@ -995,6 +998,7 @@ voice.telephony.goog
 .clinica-tibet.ru
 .clipfish.de
 .cloakpoint.com
+.cloud.cupronickel.goog
 .cloudcone.com
 .cloudflare-ipfs.com
 .cloudflare.com
@@ -1277,6 +1281,7 @@ voice.telephony.goog
 .djangosnippets.org
 .djorz.com
 .dl-laby.jp
+.dler.io
 .dlive.tv
 .dlsite.com
 .dlsite.jp
@@ -2081,6 +2086,7 @@ voice.telephony.goog
 .greenreadings.com
 .greenvpn.net
 .greenvpn.org
+.grindr.com
 .grotty-monday.com
 .gs-discuss.com
 .gsearch.media
@@ -2476,6 +2482,7 @@ voice.telephony.goog
 .imb.org
 .imdb.com
 .img.ly
+.imgasd.com
 .imgchili.net
 .imgmega.com
 .imgur.com
@@ -2572,7 +2579,6 @@ voice.telephony.goog
 .israbox.com
 .issuu.com
 .istars.co.nz
-.istarshine.com
 .istef.info
 .istiqlalhewer.com
 .istockphoto.com
@@ -3640,7 +3646,6 @@ voice.telephony.goog
 .oopsforum.com
 .ooyala.com
 .open.com.hk
-.openai.com
 .openallweb.com
 .opendemocracy.net
 .opendn.xyz
@@ -3690,6 +3695,7 @@ voice.telephony.goog
 .overcast.fm
 .overdaily.org
 .overplay.net
+.oversea.istarshine.com
 .ovi.com
 .ovpn.com
 .ow.ly
@@ -3711,6 +3717,7 @@ voice.telephony.goog
 .paddle.com
 .paddleapi.com
 .padmanet.com
+.page.link
 .pages.dev
 .pagodabox.com
 .palacemoon.com
@@ -3863,7 +3870,6 @@ voice.telephony.goog
 .podbean.com
 .podcast.co
 .podictionary.com
-.poe.com
 .pokemon.com
 .pokerstars.com
 .pokerstars.net
@@ -4367,6 +4373,7 @@ voice.telephony.goog
 .sis001.us
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .six-degrees.io
@@ -5660,6 +5667,7 @@ voice.telephony.goog
 .xiaohexie.com
 .xiaolan.me
 .xiaoma.org
+.xiaomi.eu
 .xiaxiaoqiang.net
 .xiezhua.com
 .xihua.es
