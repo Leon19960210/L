@@ -1,6 +1,7 @@
 # NAME: Spotify
-# UPDATED: 2023-08
+# UPDATED: 2024-01
 DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
