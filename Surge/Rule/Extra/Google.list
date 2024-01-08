@@ -1,5 +1,5 @@
 # NAME: Google
-# UPDATED: 2023-08
+# UPDATED: 2024-01
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -209,8 +209,6 @@ DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flutter.dev
@@ -231,9 +229,7 @@ DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
-DOMAIN-SUFFIX,get.new
 DOMAIN-SUFFIX,get.page
-DOMAIN-SUFFIX,get.rsvp
 DOMAIN-SUFFIX,getbumptop.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
@@ -259,7 +255,6 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-syndication.com
@@ -290,7 +285,6 @@ DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
 DOMAIN-SUFFIX,google.cn
-DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -510,7 +504,6 @@ DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,googleventures.com
-DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
@@ -531,9 +524,7 @@ DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,haplorrhini.com
 DOMAIN-SUFFIX,hdrplusdata.org
-DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,hey.gle
 DOMAIN-SUFFIX,hindiweb.com
 DOMAIN-SUFFIX,howtogetmo.co.uk
@@ -548,8 +539,6 @@ DOMAIN-SUFFIX,j2objc.org
 DOMAIN-SUFFIX,jibemobile.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
-DOMAIN-SUFFIX,kaggle.net
-DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
@@ -569,7 +558,6 @@ DOMAIN-SUFFIX,moodstocks.com
 DOMAIN-SUFFIX,near.by
 DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,neverware.com
-DOMAIN-SUFFIX,new.day
 DOMAIN-SUFFIX,nomulus.foo
 DOMAIN-SUFFIX,oasisfeng.com
 DOMAIN-SUFFIX,oauthz.com
