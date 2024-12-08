@@ -1,11 +1,10 @@
 # NAME: GlobalMedia
-# UPDATED: 2024-01
+# UPDATED: 2025-01
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.okzy.tv
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,cache.video.iqiyi.com
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cs428.wpc.edgecastcdn.net
 DOMAIN,dashasiafox.akamaized.netflix
@@ -26,7 +25,6 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,ocvideo.apple.com
-DOMAIN,p.bstarstatic.com
 DOMAIN,rpg.pic-imges.com
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN-SUFFIX,112263.com
@@ -123,6 +121,7 @@ DOMAIN-SUFFIX,bowenpress.com
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,bravotv.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,bstarstatic.com
 DOMAIN-SUFFIX,bucketeer.jp
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -154,6 +153,7 @@ DOMAIN-SUFFIX,cbssvideo.com
 DOMAIN-SUFFIX,cbstelevisioncity.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,chocotv.com.tw
@@ -647,6 +647,7 @@ DOMAIN-SUFFIX,italkbb.com
 DOMAIN-SUFFIX,italkbbtv.com
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,japonx.com
 DOMAIN-SUFFIX,japonx.net
 DOMAIN-SUFFIX,japonx.tv
@@ -980,6 +981,7 @@ DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktok.us
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,timestalks.com
@@ -1281,7 +1283,6 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,avoddashs
@@ -1299,7 +1300,7 @@ DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,olevod
 DOMAIN-KEYWORD,rthklive
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tvbanywhere
@@ -2243,12 +2244,15 @@ USER-AGENT,Deezer*
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
 USER-AGENT,FOX%20NOW*
+USER-AGENT,FOXNOW*
 USER-AGENT,FOXPlus*
 USER-AGENT,HBO%20GO%20PROD%20HKG*
 USER-AGENT,HBO%20GO%20PROD*
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBO*
+USER-AGENT,HBOGOPRODHKG*
 USER-AGENT,HBOMAX*
+USER-AGENT,HBONOW*
 USER-AGENT,HWTVMobile*
 USER-AGENT,Himalaya*
 USER-AGENT,Hulu*
@@ -2258,9 +2262,11 @@ USER-AGENT,JOOX*
 USER-AGENT,KKTV*
 USER-AGENT,LINE%20TV*
 USER-AGENT,LINE*
+USER-AGENT,LINETV*
 USER-AGENT,Max*
 USER-AGENT,My5*
 USER-AGENT,Naver%20TV*
+USER-AGENT,NaverTV*
 USER-AGENT,Niconico*
 USER-AGENT,Overcast*
 USER-AGENT,PBS*
@@ -2268,6 +2274,7 @@ USER-AGENT,PPlus*
 USER-AGENT,Pandora*
 USER-AGENT,PeacockMobile*
 USER-AGENT,Prime%20Video*
+USER-AGENT,PrimeVideo*
 USER-AGENT,SoundCloud*
 USER-AGENT,Spotify*
 USER-AGENT,TIDAL*
@@ -2279,6 +2286,7 @@ USER-AGENT,Viu*
 USER-AGENT,ViuTV*
 USER-AGENT,WeMusic*
 USER-AGENT,WeTV*
+USER-AGENT,app/bstar*
 USER-AGENT,com.apple.tv*
 USER-AGENT,com.kktv*
 USER-AGENT,com.kktv.ios.kktv*
