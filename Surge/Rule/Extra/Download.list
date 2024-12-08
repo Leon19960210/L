@@ -1,11 +1,12 @@
 # NAME: Download
-# UPDATED: 2024-01
+# UPDATED: 2025-01
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-KEYWORD,aria2
 DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 PROCESS-NAME,BitComet
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Folx
