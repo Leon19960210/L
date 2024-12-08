@@ -1,9 +1,8 @@
 # NAME: Lan
 # UPDATED: 2024-01
 DOMAIN,asusrouter.com
-DOMAIN,cp.cloudflare.com
-DOMAIN,detectportal.firefox.com
 DOMAIN,instant.arubanetworks.com
+DOMAIN,oasisauth.h3c.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,www.asusrouter.com
@@ -104,18 +103,13 @@ DOMAIN-SUFFIX,99.100.in-addr.arpa
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
-DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,my.router
-DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,phicomm.me
