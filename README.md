@@ -1,3 +1,3 @@
 🚫Star 🚫Fork 🚫Share
   
-    personal use only
+  For Personal Use Only
