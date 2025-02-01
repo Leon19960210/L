@@ -4,7 +4,7 @@
 
     
 ### Collected and modified from       
-### Thanks  
+Thanks  
 - [@blackmatrix7](https://github.com/blackmatrix7)
 - [@Rabbit-Spec](https://github.com/Rabbit-Spec)
 - [@Koolson](https://github.com/Koolson)
