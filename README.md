@@ -4,6 +4,5 @@
 
     
 ## Collected and modified from       
-  [@blackmatrix7](https://github.com/blackmatrix7)
+Thanks  [@blackmatrix7](https://github.com/blackmatrix7)
   [@Koolson](https://github.com/Koolson)
-## Thanks
