@@ -9,3 +9,4 @@ Thanks
 - [@Rabbit-Spec](https://github.com/Rabbit-Spec)
 - [@Hackl0us](https://github.com/Hackl0us)
 - [@Koolson](https://github.com/Koolson)
+- [@EAlyce](https://github.com/EAlyce)
