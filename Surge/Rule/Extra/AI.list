@@ -17,6 +17,7 @@ DOMAIN,api.statsig.com
 DOMAIN,api.together.xyz
 DOMAIN,api.windsurf.ai
 DOMAIN,apple-relay.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,assets.msn.com
