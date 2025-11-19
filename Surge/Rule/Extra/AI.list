@@ -7,6 +7,7 @@ DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,antigravity.google
 DOMAIN,api-iam.intercom.io
 DOMAIN,api.codeium.com
 DOMAIN,api.github.com
@@ -34,7 +35,6 @@ DOMAIN,console.groq.com
 DOMAIN,console.mistral.ai
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
-DOMAIN,cp2.cloudflare.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,file.oaiusercontent.com
 DOMAIN,gateway.ai.cloudflare.com
