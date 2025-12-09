@@ -1,5 +1,5 @@
 # NAME: AI
-# UPDATED: 2025-11
+# UPDATED: 2025-12
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -50,6 +50,7 @@ DOMAIN,ios.chat.openai.com
 DOMAIN,jules.google.com
 DOMAIN,location.microsoft.com
 DOMAIN,makersuite.google.com
+DOMAIN,notebooklm.google.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
@@ -184,6 +185,7 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,learning.google.com
 DOMAIN-SUFFIX,livekit.cloud
