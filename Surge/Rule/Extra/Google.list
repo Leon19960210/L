@@ -1,5 +1,5 @@
 # NAME: Google
-# UPDATED: 2025-10
+# UPDATED: 2026-01
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
@@ -139,6 +139,7 @@ DOMAIN-SUFFIX,bumptop.com
 DOMAIN-SUFFIX,bumptop.net
 DOMAIN-SUFFIX,bumptop.org
 DOMAIN-SUFFIX,bumptunes.com
+DOMAIN-SUFFIX,c.gle
 DOMAIN-SUFFIX,campuslondon.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,certificate-transparency.dev
