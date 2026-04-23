@@ -1,5 +1,5 @@
 # NAME: China
-# UPDATED: 2026-04
+# UPDATED: 2026-05
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -1028,7 +1028,6 @@ DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cr173.com
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crggcn.com
 DOMAIN-SUFFIX,crsky.com
 DOMAIN-SUFFIX,cryuantafund.com
