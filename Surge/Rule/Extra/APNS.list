@@ -1,3 +1,5 @@
+# NAME: APNS
+# UPDATED: 2026-05
 DOMAIN,identity.apple.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,push.apple.com
