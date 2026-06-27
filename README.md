@@ -11,5 +11,6 @@ Thanks
 - [@VirgilClyne](https://github.com/VirgilClyne)
 - [@Hackl0us](https://github.com/Hackl0us)
 - [@Koolson](https://github.com/Koolson)
+- [@SukkaW](https://github.com/SukkaW)
 - [@EAlyce](https://github.com/EAlyce)
 - [@lige47](https://github.com/lige47)
