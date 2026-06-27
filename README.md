@@ -3,9 +3,8 @@
 ### For Personal Use Only
 
     
-### Collected and modified from       
-Thanks  
-- [@Centralmatrix3](https://github.com/Centralmatrix3)
+### Collected and modified from
+Thanks
 - [@blackmatrix7](https://github.com/blackmatrix7)
 - [@Rabbit-Spec](https://github.com/Rabbit-Spec)
 - [@VirgilClyne](https://github.com/VirgilClyne)
