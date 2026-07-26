@@ -1,11 +1,5 @@
 # NAME: AI
 # UPDATED: 2026-07
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,cp4.cloudflare.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,guzzoni.apple.com
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
